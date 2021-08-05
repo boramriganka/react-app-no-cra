@@ -1,4 +1,4 @@
-# react-app-no-cra
+# React-App using webpack and babel ( NO CREATE-REACT-APP)
 
 ## This is a starter react project set up using webpack and babel. 
 ## I have not used CRA(create-react-app) .
