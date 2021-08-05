@@ -1,9 +1,8 @@
 # React-App using webpack and babel ( NO CREATE-REACT-APP)
 
-## This is a starter react project set up using webpack and babel. 
-## I have not used CRA(create-react-app) .
+### This is a starter react project set up using webpack and babel.( manual configuration)
 
-## Webpack and react-scripts is slightly different.
+### Webpack and react-scripts is slightly different.
 ```diff
 
 -1. Module Bundler Vs NPM package
