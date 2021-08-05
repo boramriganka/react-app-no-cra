@@ -26,5 +26,7 @@ Implementation of ssr in create react app is headache where as in webpage you ca
 While using Webpack you’re completely responsible for updating and maintaining webpage configurations. 
 For create-react-app all is managed by React communit
 
+```
+
 [source](https://medium.com/@imbudhiraja/webpack-vs-create-react-app-cb72c47f8100)
 
